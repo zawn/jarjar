@@ -1,4 +1,5 @@
 #summary In which we cover what most people care about.
+#labels Featured
 
 In our imaginary project, the Ant "jar" target looks like:
 
