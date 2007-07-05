@@ -1,8 +1,6 @@
 #summary List of important changes in each release.
 #labels Featured
 
-= Change Log =
-
 == 1.0rc5 ==
 
   * Recompile to 1.4-compatible bytecode.
