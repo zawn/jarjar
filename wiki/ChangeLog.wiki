@@ -1,0 +1,20 @@
+#summary List of important changes in each release.
+#labels Featured
+
+= Change Log =
+
+== 1.0rc5 ==
+
+  * Recompile to 1.4-compatible bytecode.
+
+== 1.0rc4 ==
+
+  * Moved to Google Code hosting.
+  * Copyright updated to reflect Google ownership.
+  * *License changed* from GPL to Apache 2.
+  * Updated to use Java regex instead of gnu-regexp.
+  * Uses hand-rolled command-line parser instead of gnu-getopt. Command-line syntax was simplified to make this easier.
+
+== Previous releases ==
+
+  * I'll try to fill this in soon.
