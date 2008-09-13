@@ -1,4 +1,5 @@
 #summary Command-line documentation
+#labels Featured
 
 =From the command-line=
 
