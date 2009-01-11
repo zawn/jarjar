@@ -1,6 +1,10 @@
 #summary List of important changes in each release.
 #labels Featured
 
+== 1.0 ==
+
+  * Identical to rc8.
+
 == 1.0rc8 ==
 
   * Now requires JDK 1.5 or higher.
