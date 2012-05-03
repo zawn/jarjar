@@ -1,6 +1,13 @@
 #summary List of important changes in each release.
 #labels Featured
 
+== 1.3 ==
+  * Now uses the new asm4 to be usable with invokedynamic
+
+== 1.1 and 1.2 ==
+
+release info is missing
+
 == 1.0 ==
 
   * Identical to rc8.
